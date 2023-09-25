@@ -1,0 +1,97 @@
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\appsettings.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\libman.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.staticwebassets.runtime.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.exe
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.deps.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.runtimeconfig.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\bin\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\scopedcss\bundle\SignalRChat.styles.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\refint\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\SignalRChat.genruntimeconfig.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app\SignalRChat\obj\Debug\net7.0\ref\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\appsettings.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\libman.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.staticwebassets.runtime.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.exe
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.deps.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.runtimeconfig.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\bin\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\scopedcss\bundle\SignalRChat.styles.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\refint\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\SignalRChat.genruntimeconfig.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS\SignalRChat\obj\Debug\net7.0\ref\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\appsettings.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\libman.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.staticwebassets.runtime.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.exe
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.deps.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.runtimeconfig.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.AssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.RazorAssemblyInfo.cs
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\scopedcss\bundle\SignalRChat.styles.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\refint\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.pdb
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.genruntimeconfig.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\ref\SignalRChat.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\calls.json
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.csproj.AssemblyReference.cache
+C:\Users\Syed Hussain Haider\Workspace\Ibex work\WebRTC\SignalR app JS - WebRTC\SignalRChat\obj\Debug\net7.0\SignalRChat.csproj.CopyComplete

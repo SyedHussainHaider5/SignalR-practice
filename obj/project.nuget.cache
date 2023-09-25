@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WoR7sFwKUIwdAfBR/DxSoyKaPGZE7EuaYvKKSX1WqFTv3z3zJTRNJ6mA9ZXNBmxT1Bgjvq8Q1+OIA0hFTq2u3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Syed Hussain Haider\\Workspace\\Ibex work\\WebRTC\\SignalR app JS - WebRTC\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Hussain Haider\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

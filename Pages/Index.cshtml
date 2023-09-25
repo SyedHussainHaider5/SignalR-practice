@@ -1,0 +1,82 @@
+﻿@page
+@* <div class="container">
+<div class="row p-1">
+<div class="col-1">User</div>
+<div class="col-5"><input type="text" id="userInput" /></div>
+</div>
+<div class="row p-1">
+<div class="col-1">Message</div>
+<div class="col-5"><input type="text" class="w-100" id="messageInput" /></div>
+</div>
+<div class="row p-1">
+<div class="col-6 text-end">
+<input type="button" id="sendButton" value="Send Message" />
+</div>
+</div>
+<div class="row p-1">
+<div class="col-6">
+<hr />
+</div>
+</div>
+<div class="row p-1">
+<div class="col-6">
+<ul id="messagesList"></ul>
+</div>
+</div>
+<div class="row p-1">
+<div class="col-6">
+<h2>1. Start your Webcam</h2>
+<div class="videos">
+<span>
+<h3>Local Stream</h3>
+<video id="webcamVideo" autoplay playsinline></video>
+</span>
+<span>
+<h3>Remote Stream</h3>
+<video id="remoteVideo" autoplay playsinline></video>
+</span>
+
+
+</div>
+
+<button id="webcamButton">Start webcam</button>
+<h2>2. Create a new Call</h2>
+<button id="callButton" disabled>Create Call (offer)</button>
+
+</div>
+</div>
+</div>
+*@
+<div class="container">
+    <h2>1. Start your Webcam</h2>
+    <div class="videos">
+        <span>
+            <h3>Local Stream</h3>
+            <video id="webcamVideo" autoplay playsinline></video>
+        </span>
+        <span>
+            <h3>Remote Stream</h3>
+            <video id="remoteVideo" autoplay playsinline></video>
+        </span>
+
+
+    </div>
+
+    <button id="webcamButton">Start webcam</button>
+    <h2>2. Create a new Call</h2>
+    <button id="callButton" disabled>Create Call (offer)</button>
+
+    <h2>3. Join a Call</h2>
+    <p>Answer the call from a different browser window or device</p>
+
+    <input id="callInput" />
+    <button id="answerButton" disabled>Answer</button>
+
+    <h2>4. Hangup</h2>
+
+    <button id="hangupButton" disabled>Hangup</button>
+
+</div>
+
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
